@@ -4,7 +4,7 @@ import cors from 'cors'
 
 app.use(cors())
 app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+app.use(express.urlencoded({ extended: any }))
 app.get('/', (req: Request, res: Response) => {
   res.send('Hello World!')
 })
