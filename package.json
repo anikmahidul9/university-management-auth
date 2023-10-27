@@ -14,7 +14,7 @@
   "author": "mahidul-anik",
   "license": "ISC",
   "lint-staged": {
-    "src/**/*.ts":"yarn lint-prettier"
+    "src/**/*.ts": "yarn lint-prettier"
   },
   "devDependencies": {
     "@types/express": "^4.17.20",
