@@ -1,0 +1,185 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\.526786e3a8734c353a06a641b376fe75f3520106-audit.json",
+    "files": [
+        {
+            "date": 1699130055305,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-05-11-02.log",
+            "hash": "68ab01baeccb86bf37663fee22f7b5ef3f5df4e904afa529cc4d95201723b8a9"
+        },
+        {
+            "date": 1699134700212,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-05-11-03.log",
+            "hash": "600e2e4a59f05a412dd06651afebe92171aae4aec2ec862e7908d1f39f52683f"
+        },
+        {
+            "date": 1699135219739,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-05-11-04.log",
+            "hash": "bb93070674c576f81620649e50edbd78e33f221322b6bf2a2b126860288ff6c2"
+        },
+        {
+            "date": 1699362666905,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-07-11-19.log",
+            "hash": "d0b296dd097a71f391604872cb7d99553f9ca631868c0ff15b056ff960ff2d44"
+        },
+        {
+            "date": 1699365750064,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-07-11-20.log",
+            "hash": "1e9ff4fc25fc31ce7587acab549547c927af12ec77cb8aeda543844d1412bb12"
+        },
+        {
+            "date": 1699370111747,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-07-11-21.log",
+            "hash": "07cd541c9fd828df08cdb69375d981cdec41fc87d2a462cae0b3cdb3f8e2012f"
+        },
+        {
+            "date": 1699373911494,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-07-11-22.log",
+            "hash": "d9669d8c8063d96b311c90731cf3a92e58df0dc5d42bcffe7308591fed269aab"
+        },
+        {
+            "date": 1699385630206,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-08-11-01.log",
+            "hash": "cfc14df007de3c5f054e5a254a086c06f124bbf889df828fc6a3536299bdc7d7"
+        },
+        {
+            "date": 1699387203968,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-08-11-02.log",
+            "hash": "bb561c9837c4aa756b10af6ce3d697968910d76a98994d2d088b8137e5f28776"
+        },
+        {
+            "date": 1699391131230,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-08-11-03.log",
+            "hash": "311e94dbf82263526207d71a62fa4d532931b54cf0a38d389de1f96a6a3b79d0"
+        },
+        {
+            "date": 1699397908509,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-08-11-04.log",
+            "hash": "6c6548c46af7f98cf648190124006a974f269e42f7f4eceb90c1c2dca49d372b"
+        },
+        {
+            "date": 1699399442380,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-08-11-05.log",
+            "hash": "ec2548dd21d73c125a633fe83f7e9b6a2ecae2140d34d74f8d997f95327d5988"
+        },
+        {
+            "date": 1699445213062,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-08-11-18.log",
+            "hash": "fe278d87d42bb80b238f9aca518e0cb41155a39afa27dca3e48d4ed1dbc83d0e"
+        },
+        {
+            "date": 1699987285656,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-00.log",
+            "hash": "24ee38d2a8d9a2579a727079ad2dcd5d4277ced4437a13f82302f1d148149b93"
+        },
+        {
+            "date": 1699989037062,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-01.log",
+            "hash": "d0e0b45f0727b2ebff88ffc4cade279f59e3248c8c91b760c29a43b4c032719f"
+        },
+        {
+            "date": 1699994016012,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-02.log",
+            "hash": "f6bbff2dfc05ca97c461e195bc70a4f252ac8664bd37b684b68a68aebfd2056a"
+        },
+        {
+            "date": 1699999090256,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-03.log",
+            "hash": "2e68005bd3a42be093729d4d75c3f00dda09c7ad255cf18bb59e6e168e586d75"
+        },
+        {
+            "date": 1699999206600,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-04.log",
+            "hash": "fe38b0ba7b847a0b69459793b39d9363d50f12852fe61b7a3cd19b5a3c9b8710"
+        },
+        {
+            "date": 1700003228393,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-05.log",
+            "hash": "9b425fb176105ab48b535fbf7db606fd6ca104831bdb07d683ae45afe43c28f6"
+        },
+        {
+            "date": 1700043563968,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-16.log",
+            "hash": "5141e0e96d0e7c27a58dd4a3f0decc1e2f3019c69e8f80c4f22023944d260510"
+        },
+        {
+            "date": 1700069085853,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-15-11-23.log",
+            "hash": "1d61ddf9381d90367add7aaef69741be8370eb75bf8d983875321eba4be88395"
+        },
+        {
+            "date": 1700073298750,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-16-11-00.log",
+            "hash": "ff2b3d762676dfa77f0aef9720424e24d37b3fd63c19bdcf9ab34aac24117d15"
+        },
+        {
+            "date": 1700075700904,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-16-11-01.log",
+            "hash": "0d2b38fa98f0a450e843f0aba27be3d627942ce04d2c8545ec8ef4202d5d1390"
+        },
+        {
+            "date": 1700090223908,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-16-11-05.log",
+            "hash": "e555e79acf656df1baa8d7e381d12523c05910925b9c68f7d5dd22e71d8b1277"
+        },
+        {
+            "date": 1700146984895,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-16-11-21.log",
+            "hash": "1c47f032301fa8658a8f91b2919a630a0fe18aa92758038eef2b278e8967c293"
+        },
+        {
+            "date": 1700154958919,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-16-11-23.log",
+            "hash": "5b308a8e87d0a8a153f184b02f0ed159f3bcd9f593840a91e91e8cc495cf9a98"
+        },
+        {
+            "date": 1700157671152,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-17-11-00.log",
+            "hash": "7c4471c9ab8711ed4e8285bf39aa5af52c7bfd6bcc2c100bf52e6ea8d98e2c20"
+        },
+        {
+            "date": 1700161772212,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-17-11-01.log",
+            "hash": "5c78df493de1d570f69f8a39030706422ea403b5f97b8babac2920dc9b66f164"
+        },
+        {
+            "date": 1700165700208,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-17-11-02.log",
+            "hash": "6cb680a68be3c3d281485452cb1dc5be5e5644fc14d2931549df3f1b5b06e637"
+        },
+        {
+            "date": 1700168450976,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-17-11-03.log",
+            "hash": "9a72d1f184919312726f4ab8065dda85ad9f4157d5503fc7146cf7ca464016ed"
+        },
+        {
+            "date": 1700325643170,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-18-11-22.log",
+            "hash": "e2f29a3057abc5451f405f77b5677e26d3c1aedb232d8ea386e036ab17b993d1"
+        },
+        {
+            "date": 1700326982360,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-18-11-23.log",
+            "hash": "8a9f72ec3bc3d8679feee5599d487f6459ab575f2817bbf2d18cc05b4593470a"
+        },
+        {
+            "date": 1700330608136,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-19-11-00.log",
+            "hash": "5d621a5e4bd5a53e0059e82b124c9bbe1b0c5bf5c3ea68928339f4f27c82c3d2"
+        },
+        {
+            "date": 1700334396963,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-19-11-01.log",
+            "hash": "a791bcc29433f33097c3dbf4c1b4b8f04d6657ee11e54122232bfd1fbfb44bfd"
+        },
+        {
+            "date": 1700337879372,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\success\\application-2023-19-11-02.log",
+            "hash": "82f0788d8f70edd698d98756287ff7a1747cef206eccfbeb37c4019b9d6a0790"
+        }
+    ],
+    "hashType": "sha256"
+}

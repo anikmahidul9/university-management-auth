@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Anik Project\\university-management-auth\\logs\\winston\\errors\\error.log\\.e32d1bd7b6f0c2baaac89e395bbc7554645ba672-audit.json",
+    "files": [
+        {
+            "date": 1698746200317,
+            "name": "D:\\Anik Project\\university-management-auth\\logs\\winston\\errors\\error.log\\application-2023-10-31-15.log",
+            "hash": "a068a8c6b86b5ab48826d8c403945e4ea6a51f1b9e436b795f740e27a1724a56"
+        }
+    ],
+    "hashType": "sha256"
+}
